@@ -1,1 +1,1 @@
-# Image-classifier
+# Horses vs Humans image Classifier
